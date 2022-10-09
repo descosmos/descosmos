@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somnambulating
-- 👀 I’m interested in reverse engineering, Cryptography.
+- 👀 I’m interested in reverse engineering, Cryptography and compiler.
 - 🌱 I’m currently learning reverse engineering.
 - 📫 How to reach me 
 - 📧 descosmos@163.com
