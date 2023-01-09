@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Somnambulating
+- 👋 Hi, I’m descosmos.
 - 👀 I’m interested in reverse engineering, Cryptography and compiler.
 - 🌱 I’m currently learning reverse engineering.
 - 📫 How to reach me 
