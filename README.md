@@ -1,6 +1,6 @@
 - 👋 Hi, I’m descosmos.
 - 👀 I’m interested in Cryptography and compiler.
-- 🌱 I’m currently learning AI.
+- 🌱 I’m currently learning Dart vm.
 - 📫 How to reach me 
 - 📧 descosmos@163.com
 
